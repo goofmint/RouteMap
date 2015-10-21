@@ -1,0 +1,4 @@
+<applican-whitelist>
+	<allowed>tel:*</allowed>
+	<allowed>mailto:*</allowed>
+</applican-whitelist>

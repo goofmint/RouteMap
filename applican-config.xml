@@ -1,0 +1,37 @@
+<applican-configuration>
+	<property name="GOOGLE_ANALYTICS_TRACKING">false</property>
+	<property name="KEEP_SCREEN_ON">false</property>
+	<property name="NATIVE_SLIDE_MENU">false</property>
+	<property name="NAVIGATION_BAR">false</property>
+	<property name="PULL_TO_REFRESH">false</property>
+	<property name="RESUME_RELOAD">false</property>
+
+	<property name="NATIVE_TAB_AUTO_RELOAD1">true</property>
+	<property name="NATIVE_TAB_AUTO_RELOAD2">true</property>
+	<property name="NATIVE_TAB_AUTO_RELOAD3">true</property>
+	<property name="NATIVE_TAB_AUTO_RELOAD4">true</property>
+	<property name="NATIVE_TAB_AUTO_RELOAD5">true</property>
+	<property name="NATIVE_TAB_BAR">false</property>
+	<property name="NATIVE_TAB_COUNT">4</property>
+	<property name="NATIVE_TAB_HEIGHT">60</property>
+	<property name="NATIVE_TAB_POSITION">bottom</property>
+	<property name="NATIVE_TAB_TAP_RELOAD">false</property>
+
+	<property name="NATIVE_TAB_URL1">index.html</property>
+	<property name="NATIVE_TAB_URL2">stamp.html</property>
+	<property name="NATIVE_TAB_URL3">access.html</property>
+	<property name="NATIVE_TAB_URL4">info.html</property>
+	
+	<property name="SCREEN_ORIENTATION_LANDSCAPE">false</property>
+	<property name="SCREEN_ORIENTATION_PORTRAIT">true</property>
+
+	<property name="STATUS_BAR">true</property>
+	<property name="STATUS_BAR_OVERLAY">true</property>
+	<property name="STATUS_BAR_STYLE">dark</property>
+
+	<property name="WEBVIEW_BOUNCES">false</property>
+	<property name="WEBVIEW_BACK">true</property>
+	<property name="WEBVIEW_HARDWARE_BACK_BUTTON">false</property>
+	<property name="SYSTEM_UI_NAVIGATION_BAR">false</property>
+	<property name="SYSTEM_UI_KEEP_IMMERSIVE">true</property>
+</applican-configuration>
